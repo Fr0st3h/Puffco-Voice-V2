@@ -27,3 +27,5 @@ Before you start, please have python version 3.8
 9. Once your puffco is connected, open up the alexa app on your phone and add a new 'Other' device, or you can ask alexa to discover devices
 10. Your puffco will be found as a light named whatever your puffco name is with (Puffco) at the end
 11. Once you're finish adding the device, you're free to make some routines to control the puffco even more (Preheat profiles 1-4 mainly)
+
+Thank you to https://github.com/blocke/ha-local-echo for the Hue Emulation
