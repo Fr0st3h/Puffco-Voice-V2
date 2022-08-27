@@ -7,10 +7,10 @@ SUPPORTS FIRMWARE W AND FIRMWARE X!!
 Note: Since this project emulates a Hue Light, there are limited voice commands, you can really only start and stop a session on your puffco.
 You can create routines to preheat a specific profile by setting the brightness
 
-0%-25% is profile 1
-25%-50% is profile 2
-50%-75% is profile 3
-75%-100% is profile 4
+- 0%-25% is profile 1
+- 25%-50% is profile 2
+- 50%-75% is profile 3
+- 75%-100% is profile 4
 
 You can refer to the screenshots in the screenshots folder for an example
 
